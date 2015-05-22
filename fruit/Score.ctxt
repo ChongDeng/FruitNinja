@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Score()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Score\r\n
+comment1.params=s
+comment1.target=void\ setStrategy(ScoreStrategy)
+comment2.params=FruitType
+comment2.target=void\ setScore(java.lang.Class)
+comment3.params=
+comment3.target=int\ getScore()
+numComments=4

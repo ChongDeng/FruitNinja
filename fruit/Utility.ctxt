@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Utility()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Utility\r\n
+comment1.params=val
+comment1.target=void\ setCanvasWidth(int)
+comment2.params=
+comment2.target=int\ getCanvasWidth()
+comment3.params=val
+comment3.target=void\ setCanvasHeight(int)
+comment4.params=
+comment4.target=int\ getCanvasHeight()
+comment5.params=
+comment5.target=void\ StartBackgroundMusic()
+comment6.params=
+comment6.target=void\ StopBackgroundMusic()
+numComments=7

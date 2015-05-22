@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=img_name\ sccore_strategy\ subject
+comment0.target=Bomb(java.lang.String,\ Score,\ KeyBoardSubject)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ Update()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreView()
+comment1.params=amount
+comment1.target=void\ bumpCount(int)
+comment1.text=\r\n\ Increase\ the\ total\ amount\ displayed\ on\ the\ counter,\ by\ a\ given\ amount.\r\n
+comment2.params=score
+comment2.target=void\ RefreshScoreView(int)
+numComments=3

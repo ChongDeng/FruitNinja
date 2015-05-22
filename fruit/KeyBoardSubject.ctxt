@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KeyBoardSubject()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ KeyBoardSubject\r\n
+comment1.params=observer
+comment1.target=void\ Attach(KeyBoardObserver)
+comment2.params=observer
+comment2.target=void\ Detach(KeyBoardObserver)
+comment3.params=
+comment3.target=void\ Notify()
+comment4.params=
+comment4.target=java.lang.String\ getSubjectState()
+comment5.params=val
+comment5.target=void\ setSubjectState(java.lang.String)
+numComments=6

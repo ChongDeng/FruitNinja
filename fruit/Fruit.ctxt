@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.params=brake_img\ sccore_strategy
+comment0.target=Fruit(java.lang.String,\ Score)
+comment1.params=
+comment1.target=void\ cut_fruit()
+comment10.params=
+comment10.target=void\ rotate_fruit()
+comment11.params=
+comment11.target=void\ explode()
+comment12.params=x\ y\ numFragments
+comment12.target=void\ placeDebris(int,\ int,\ int)
+comment13.params=x\ y\ stainNum
+comment13.target=void\ placeStains(int,\ int,\ int)
+comment14.params=
+comment14.target=void\ act_back()
+comment15.params=
+comment15.target=void\ test()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=x\ y
+comment3.target=boolean\ outOfBounds(double,\ double)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=X\ Y
+comment5.target=boolean\ ok(int,\ int)
+comment6.params=
+comment6.target=void\ PlayBreakSoundOnce()
+comment7.params=
+comment7.target=void\ SetScoreOnce()
+comment8.params=
+comment8.target=void\ match_gesture()
+comment8.text=\r\n\ \ \ public\ void\ SetScoreOnce()\r\n\ \ \ {\r\n\ \ \ \ \ \ if(getClass()\ \=\=\ Bomb.class)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ Greenfoot.playSound("bomb-explode.wav");\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ FinalScoreAndImage.setFinalView(getWorld(),\ sccore_strategy);\r\n\ \ \ \ \ \ }\r\n\r\n}
+comment9.params=
+comment9.target=void\ start()
+numComments=16

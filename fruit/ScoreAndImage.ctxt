@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=w\ sccore_strategy
+comment0.target=void\ setFinalView(greenfoot.World,\ Score)
+comment1.params=w\ sccore_strategy
+comment1.target=void\ RefreshScore(greenfoot.World,\ Score)
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PaintWorld()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ generate_fruits()
+comment3.params=
+comment3.target=void\ begin_cut()
+comment4.params=
+comment4.target=void\ set_canvas_label()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getCachedCombinedUserImage()
+comment6.params=time_val
+comment6.target=void\ set_play_time_once(int)
+comment7.params=
+comment7.target=void\ PlayBackgoundSoundOnce()
+comment8.params=
+comment8.target=void\ UpdateKeyBoardSubjectState()
+numComments=9

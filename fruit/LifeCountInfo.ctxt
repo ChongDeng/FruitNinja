@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeCountInfo()
+comment1.params=img
+comment1.target=LifeCountInfo(java.lang.String)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+numComments=3

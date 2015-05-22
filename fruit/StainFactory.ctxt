@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StainFactory()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StainFactory\r\n
+comment1.params=FruitType
+comment1.target=Stain\ CreateStain(java.lang.Class)
+numComments=2

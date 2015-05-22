@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HardLevelState()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HardLevelState\r\n
+comment1.params=paintworld
+comment1.target=void\ Handle(PaintWorld)
+numComments=2

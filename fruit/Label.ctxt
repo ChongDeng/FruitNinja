@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Label(java.lang.String)
+comment1.params=text\ size
+comment1.target=Label(java.lang.String,\ int)
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment3.params=text\ size
+comment3.target=void\ setText(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
